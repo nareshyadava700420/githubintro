@@ -5,3 +5,5 @@ bananas
 oranges
 grapes
 cherries
+cucumbers
+raddish
