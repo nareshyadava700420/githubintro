@@ -7,4 +7,4 @@ grapes
 cherries
 cucumbers
 raddish
-walnuts
+english walnuts
